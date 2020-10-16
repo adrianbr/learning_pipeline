@@ -7,3 +7,4 @@ install git for command line and use it from terminal (do "git status" in the re
 optionally play around to format this file with markdown
 
 Hello!
+Hello2!
